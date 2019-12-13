@@ -1,0 +1,6 @@
+spring:
+  rabbitmq:
+    host: 106.13.229.216
+    username: leyou
+    password: leyou
+    virtual-host: /leyou
